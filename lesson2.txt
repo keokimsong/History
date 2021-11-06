@@ -1,1 +1,2 @@
 This is the lesson 2 of getting started with gt commands. 
+There are some errors and bugs for the first try with hyper. 
